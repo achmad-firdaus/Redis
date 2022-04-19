@@ -34,6 +34,13 @@ All Abound Redis
     like this:
     ExecStart=/usr/bin/redis-server /etc/redis/redis.conf
     
+    reload daemon:
+    sudo systemctl daemon-reload
+    
+    and you restart service redis
+    
     
 #### REDIS SERVER 👻
+    redis-server
 #### REDIS CLI 👻
+    redis-cli
