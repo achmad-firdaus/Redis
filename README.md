@@ -4,8 +4,8 @@ All Abound Redis
 #### LIST
 - [Install 👻](#install-)
 - [Error 👻](#error-)
-- [Redis Server 👻](#redis server-)
-- [Redis CLI 👻](#redis cli-)
+- [Redis Server 👻](#redis-server-)
+- [Redis CLI 👻](#redis-cli-)
 
 #### INSTALL 👻
 ### Redis Server
