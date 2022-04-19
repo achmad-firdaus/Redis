@@ -33,3 +33,7 @@ All Abound Redis
     /etc/systemd/system/redis.service
     like this:
     ExecStart=/usr/bin/redis-server /etc/redis/redis.conf
+    
+    
+#### REDIS SERVER 👻
+#### REDIS CLI 👻
